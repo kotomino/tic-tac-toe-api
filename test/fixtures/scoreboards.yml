@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  xpoints: 1
+  opoints: 1
+
+two:
+  xpoints: 1
+  opoints: 1
